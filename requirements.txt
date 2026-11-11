@@ -1,0 +1,19 @@
+# PyTorch/CUDA packages are installed separately from the official PyTorch index.
+torch==2.5.1
+torchaudio==2.5.1
+numpy==1.26.4
+scipy==1.13.1
+librosa==0.10.2.post1
+soundfile==0.12.1
+sounddevice==0.5.1
+wavio==0.0.9
+matplotlib==3.9.2
+funasr==1.2.7
+modelscope==1.25.0
+vosk==0.3.45
+gradio==5.49.1
+imageio-ffmpeg==0.6.0
+einops==0.8.1
+huggingface-hub==0.36.0
+fastapi==0.115.12
+setuptools<81
